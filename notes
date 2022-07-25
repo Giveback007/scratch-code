@@ -1,0 +1,11 @@
+Navigator.share() API
+WebRTC API (exchange data directly)
+Page Visibility API
+FileSystem API
+Broadcast Channel API
+
+array[array.length-1] === array.at(-1)
+
+??      Nullish coalescing operator
+||=     Logical OR assignment 
+&&=     Logical AND assignment

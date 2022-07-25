@@ -1,0 +1,18 @@
+{
+  "name": "vite-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx watch server.ts",
+    "types": "tsc --noEmit"
+  },
+  "keywords": [],
+  "author": "Dovydas Stirpeika",
+  "license": "ISC",
+  "devDependencies": {
+    "tsx": "^3.8.0",
+    "typescript": "^4.7.4"
+  }
+}
